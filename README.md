@@ -1,36 +1,29 @@
 # Olá eu sou o Lucas , sou estudante de tecnologia!
-
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
-
+<p></p>
+<p><img align="right" alt="Dev0Lucas-pic" height="150" style="border-radius:50px;" src="https://c.tenor.com/zcr8c2sf2DIAAAAC/coffee-anime.gif"></p>
+<p><img align="left" alt="Dev0Lucas-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif"></p>
+<p></p>
 <p align="left"><a>
   🚀 Olá, meu nome é Lucas Lopes de Oliveira Dias . Sou <strong>estudante de Full-Stack</strong>
   </a>
 </p>
+<p></p>
 
 ## Áreas de Estudo Atualmente
 
+
 <div style="display: inline_block"><br>
+  <p></p>
   <img align="center" alt="Dev0Lucas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Dev0Lucas-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Dev0Lucas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Dev0Lucas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Dev0Lucas-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-
- 
 </div>
-
-
-
-
 
 <br/>
 
-##
 
-<p><img align="right" alt="Dev0Lucas-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif"></p>
-<p><img align="left" alt="Dev0Lucas-pic" height="150" style="border-radius:50px;" src="https://www.cnnbrasil.com.br/wp-content/uploads/sites/12/2021/08/47476_2629D15259A41C61.jpg?w=876&h=484&crop=1">
-<p></p>
-</p>
 <div> 
   <a href="https://www.youtube.com/channel/UC3W92TVBuDr6W88cGPSFRkg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <img src="https://img.shields.io/badge/-Discord-1C1C1C?style=for-the-badge&logo=Discord&logoColor=00FFFF&link=https://discord.gg/58GaKgNUXW"/>
