@@ -4,7 +4,7 @@
 <p><img align="left" alt="Dev0Lucas-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif"></p>
 <p></p>
 <p align="left"><a>
-  🚀 Olá, meu nome é Lucas Lopes de Oliveira Dias . Sou <strong>estudante de Full-Stack</strong>
+  🚀 Olá, meu nome é Lucas Lopes de Oliveira Dias.
   </a>
 </p>
 <p></p>
