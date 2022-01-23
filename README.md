@@ -9,7 +9,8 @@
 </p>
 <p></p>
 
-## Área de Estudo
+### Curioso
+estudando full-stack e + um pouco
 <div style="display: inline_block"><br>
 <p></p>
 <img align="left" alt="Dev0Lucas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"><img align="left" alt="Dev0Lucas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
