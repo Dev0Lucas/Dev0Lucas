@@ -2,8 +2,8 @@
 
 <div>
   <a href="https://github.com/Dev0Lucas">
-  <img height="200em" src="https://activity-graph.herokuapp.com/graph?username=Dev0Lucas&theme=github&bg_color=20232a&hide_border=true"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev0Lucas&hide_border=1&theme=react&hide=issues&langs_count=5&custom_title=Top%20Languages"/>
+  <img height="170em" src="https://activity-graph.herokuapp.com/graph?username=Dev0Lucas&theme=github&bg_color=20232a&hide_border=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev0Lucas&hide_border=1&theme=react&hide=issues&langs_count=5&custom_title=Top%20Languages"/>
 <div>
     
 #
