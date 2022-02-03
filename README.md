@@ -1,20 +1,4 @@
-<img src="https://i.ibb.co/D9pL81f/rob-shields-special-deliver-final-size-aniamtion-99.gif">
-
-  ## 🎎 Sobre mim 🎐
-  <p></p>
- 
-```js
-   //I used "const" because I'm constantly evolving
-   const Me = {
-            Skills: "Front-End Student, Back-end Student, Full-Stack Student",
-        Main Langs: "Java, Python, PHP",
-         Web Langs: "Javascript, HTML5 , CSS3",
-              Tech: "Git, NodeJs",
-                SO: "Linux",
-    };
-```
-
- ### 🛠️ GitHub Stats
+# 🛠️ GitHub Stats
 
 <div>
   <a href="https://github.com/Dev0Lucas">
@@ -31,22 +15,4 @@
 </div>
  
 # Apenas um estudante normal
-Olá ser humano , Bem-Vindo ao meu Perfil . Apenas passando aqui para te observar
-  
-  
- 
-© 2022 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-
-  
-  
+Olá ser humano , Bem-Vindo ao meu Perfil . Apenas passando aqui para te observar.
