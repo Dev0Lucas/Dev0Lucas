@@ -1,18 +1,51 @@
-# 🛠️ GitHub Stats
-
-<div>
-  <a href="https://github.com/Dev0Lucas">
-  <img height="170em" src="https://activity-graph.herokuapp.com/graph?username=Dev0Lucas&theme=github&bg_color=20232a&hide_border=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev0Lucas&hide_border=1&theme=react&hide=issues&langs_count=5&custom_title=Top%20Languages"/>
-<div>
-    
-#
-    
-<div align='center'>
-    <a href = "mailto: lucasdias428p@gmail.com "><img src="https://img.shields.io/badge/-Email-%238a90c7?style=for-the-badge&logo=protonmail&logoColor=white" target="_blank"></a>
-  	<a href="https://www.youtube.com/channel/UC3W92TVBuDr6W88cGPSFRkg" target="_blank"><img src="https://img.shields.io/badge/-Youtube-%23EA4335?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  	<a href="https://www.linkedin.com/in/lucas-dias-843433227/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
- 
 # Apenas um estudante normal
 Olá ser humano , Bem-Vindo ao meu Perfil . Apenas passando aqui para te observar.
+
+============================================================================================
+
+<div align="center">
+   <img height="380em" src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif"/>
+</div>
+<div align="center">
+   <a href="https://www.linkedin.com/in/lucas-dias-843433227/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+   <a href="https://www.youtube.com/channel/UC3W92TVBuDr6W88cGPSFRkg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+</div>
+
+***
+<div align="center">
+   <h3> Procurando o lugar perfeito , mas nada é perfeito. </h3>
+</div>
+
+- 🎯 Amo tecnologias.
+
+- 📈 Certificados. [Da uma conferida aqui](https://www.linkedin.com/in/lucas-dias-843433227/details/certifications/).
+
+- 🎓 Cursando o Ensino Médio.
+
+***
+## 🛠 &nbsp;Querendo aprender as seguintes coisas
+
+### 👩‍💻 &nbsp;Back-End
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Typescript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![Dotnet](https://img.shields.io/badge/-.NET-05122A?style=flat&logo=dotnet)&nbsp;
+![c-sharp](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=c-sharp)&nbsp;
+
+### 🎨 &nbsp;Front-end
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+
+### ⚡ &nbsp;Database 
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
+![SqlServer](https://img.shields.io/badge/-Microsoft%20SQL%20Server-05122A?style=flat&logo=microsoft%20sql%20server&logoColor=1572B6)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
+
+## 📊 &nbsp;Stats
+
+<div align="center">
+  <a href="https://github.com/felipeAguiarCode">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dev0Lucas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev0Lucas&layout=compact&langs_count=7&theme=dracula"/>
+</div>
